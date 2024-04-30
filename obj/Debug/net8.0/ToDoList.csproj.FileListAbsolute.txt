@@ -7,6 +7,7 @@
 /Users/katerynahordynska/code/studing/CSharp/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfoInputs.cache
 /Users/katerynahordynska/code/studing/CSharp/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfo.cs
 /Users/katerynahordynska/code/studing/CSharp/ToDoList/obj/Debug/net8.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/katerynahordynska/code/studing/CSharp/ToDoList/obj/Debug/net8.0/ToDoList.sourcelink.json
 /Users/katerynahordynska/code/studing/CSharp/ToDoList/obj/Debug/net8.0/ToDoList.dll
 /Users/katerynahordynska/code/studing/CSharp/ToDoList/obj/Debug/net8.0/refint/ToDoList.dll
 /Users/katerynahordynska/code/studing/CSharp/ToDoList/obj/Debug/net8.0/ToDoList.pdb
