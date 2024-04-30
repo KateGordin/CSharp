@@ -1,20 +1,16 @@
-﻿Console.WriteLine("Hello!");
-Console.WriteLine("[S]ee all TODOs");
-Console.WriteLine("[A]dd a TODO");
-Console.WriteLine("[R]emove a TODO");
-Console.WriteLine("[E]xit");
+﻿int a = 10;
+int b = 5;
+++a;
+--b;
+Console.WriteLine(a);
+Console.WriteLine(b);
 
-string userInput = "A";
-Console.WriteLine(userInput);
-
-userInput = "ABC";
-Console.WriteLine(userInput);
-
-int number;
-number = 8;
-Console.WriteLine(number);
-
-int a = 1, b = 6;
-string name, lastName;
+Console.WriteLine("Addition:" + (a + b));
+Console.WriteLine("Subtraction:" + (a - b));
+Console.WriteLine("Multiplication:" + a * b);
+Console.WriteLine("Division:" + a / b);
+Console.WriteLine("John" + " " + "Smith");
+string word = "abc";
+Console.WriteLine(word + a);
 
 Console.ReadKey();
